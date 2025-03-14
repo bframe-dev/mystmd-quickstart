@@ -1,3 +1,6 @@
+# Other
+mystmd
+
 # To execute the code in our notebook
 altair
 matplotlib
